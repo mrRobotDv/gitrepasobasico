@@ -4,5 +4,5 @@ Este fichero servirá para que podáis actualizar vuestros repositorios locales 
 
 Archivo modificado por: Ernesto
 
-Texto añadido desde la rama funcionalidad1
+**Texto añadido desde la rama funcionalidad1**
 
